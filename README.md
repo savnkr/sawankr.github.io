@@ -21,7 +21,7 @@
 -Developed and implemented a novel approach utilizing neural networks to solve mechanics problems, incorporating physical laws and constraints into the network architecture.
 
 
-- [AI-ML]([https://www.youtube.com/channel/UCa9gErQ9AE5jT2DZLjXBIdA](https://www.youtube.com/@sawankumar5374/featured))
+- [AI-ML](https://www.youtube.com/channel/UCa9gErQ9AE5jT2DZLjXBIdA](https://www.youtube.com/@sawankumar5374/featured))
 
 ## Publications
 ### Design and fabrication of the suspension system of a formula SAE vehicle whilst using the matrix method for force estimation,
