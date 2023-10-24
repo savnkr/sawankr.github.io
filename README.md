@@ -15,7 +15,7 @@
 - Successfully designed the complete space-frame chassis and bodyworks of the Formula SAE vehicle for two consecutive Formula Bharat events in 2019 and 2020
 
 ## Projects
-### Gaussian Process for Solving Partial Differential Equations(PDEs): 
+### Gaussian Process for Solving Partial Differential Equations (PDEs): 
 - Utilized Gaussian processes to solve complex PDEs arising in diverse fields, including computational physics.
 ### Physics-Informed Neural Networks for Mechanics Problems:
 - Developed and implemented a novel approach utilizing neural networks to solve mechanics problems, incorporating physical laws and constraints into the network architecture.
