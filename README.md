@@ -25,6 +25,6 @@
 
 ## Publications
 ### Design and fabrication of the suspension system of a formula SAE vehicle whilst using the matrix method for force estimation,
-- published in Springer Lecture Notes in Mechanical Engineering edition 2020, International Conference on Recent Advances in Mechanical Engineering (RAME DTU 2020
+- published in Springer Lecture Notes in Mechanical Engineering edition 2020, International Conference on Recent Advances in Mechanical Engineering (RAME DTU 2020)
 
 - [AI-ML Blog]()
